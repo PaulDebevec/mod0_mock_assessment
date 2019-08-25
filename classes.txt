@@ -1,0 +1,17 @@
+Class: Child
+
+Attributes:
+name (string)
+age (integer)
+height_cm (float)
+weight_kg (float)
+hairColor (string)
+isAdult (boolean)
+isActive (boolean)
+
+Methods:
+gradePlacement (if age => 6 and =< 14 place in middleSchool, elsif age >14 and < 19 place in highSchool)
+growingUp (if age => 18 print "You know nothing Jon Snow")
+bmi (divide height_cm by 100. weight divided by height in meters squared.)
+yearOlder (changes age attribute)
+inSports (if child is in sports, isActive is True elsif isActive is False)
