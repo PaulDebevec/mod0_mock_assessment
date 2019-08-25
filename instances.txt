@@ -6,8 +6,8 @@ gradeLevel = 8
 
 
 Methods:
-preferredNickName: "Tim"            #! Changes name to preferredNickName
-yearsToGraduation: 12 - 8 = 4       #! 4 years to graduation
+preferredNickName: "Tim"
+yearsToGraduation: 12 - 8 = 4
 ...
 
 
@@ -19,6 +19,6 @@ age = 13
 
 
 Methods:
-dyeHair: "Black"                    #! Changes hairColor
-yearOlder: 13 + 1 = 14              #! Sums up age plus 1 year
+dyeHair: "Black"
+yearOlder: 13 + 1 = 14
 ...
