@@ -1,0 +1,24 @@
+Object: Timothy
+
+Attributes:
+name "Timothy"
+gradeLevel = 8
+
+
+Methods:
+preferredNickName: "Tim"            #! Changes name to preferredNickName
+yearsToGraduation: 12 - 8 = 4       #! 4 years to graduation
+...
+
+
+Object: Micah
+
+Attributes:
+hairColor: "Brown"
+age = 13
+
+
+Methods:
+dyeHair: "Black"                    #! Changes hairColor
+yearOlder: 13 + 1 = 14              #! Sums up age plus 1 year
+...

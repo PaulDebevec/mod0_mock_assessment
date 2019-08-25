@@ -10,8 +10,10 @@ isAdult (boolean)
 isActive (boolean)
 
 Methods:
-gradePlacement (if age => 6 and =< 14 place in middleSchool, elsif age >14 and < 19 place in highSchool)
-growingUp (if age => 18 print "You know nothing Jon Snow")
+schoolPlacement (calculates the grade placement of child) #if age => 6 and =< 14 place in middleSchool, elsif age >14 and < 19 place in highSchool
+growingUp (calculates age child will be)
 bmi (divide heightCm by 100. weightKg divided by output heightCm in meters squared.)
 yearOlder (changes age attribute)
 taller (yearOlder changes heightCm attribute)
+preferredNickName (changes name attribute)
+yearsToGraduation (calculates years to graduation)
